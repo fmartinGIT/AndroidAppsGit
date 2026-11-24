@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">El trilero</string>
+
+    <!-- Botones -->
+    <string name="bStart">¡A jugar!</string>
+    <string name="bRestart">Jugar otra vez</string>
+
+    <!-- Accesibilidad: descripción de cada cubilete en la versión Compose (n = posición) -->
+    <string name="cubilete_n">Cubilete %1$d</string>
+
+    <!-- Estado inicial e informativo (posiblemente usadas solo por versiones antiguas) -->
+    <string name="pressStart">Bienvenido al Trilero</string>
+    <string name="gameStarted">¡Partida iniciada! Elige un cubilete</string>
+    <string name="youWin">¡Ganaste! Elegiste el cubilete %1$d</string>
+    <string name="youLose">Perdiste. Elegiste el %1$d, estaba en el %2$d</string>
+
+    <!-- Usadas solo por los layouts antiguos (activity_main_3.xml y activity_main_6.xml) -->
+    <string name="ivCubilete1">Cubilete 1</string>
+    <string name="ivCubilete2">Cubilete 2</string>
+    <string name="ivCubilete3">Cubilete 3</string>
+    <string name="ivCubilete4">Cubilete 4</string>
+    <string name="ivCubilete5">Cubilete 5</string>
+    <string name="ivCubilete6">Cubilete 6</string>
+
+    <string name="title_activity_main_compose">MainActivityCompose</string>
+</resources>

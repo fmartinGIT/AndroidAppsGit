@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="golden">#FFFFB700</color>
+
+    <!-- Contraste: paneles casi opacos para que el texto se lea sobre cielo claro y arena -->
+    <color name="panel_oscuro">#E0101418</color>
+    <!-- Texto secundario sobre panel oscuro -->
+    <color name="crema">#FFFFF3D6</color>
+    <!-- Mensajes de resultado (tonos claros para leerse sobre fondo oscuro) -->
+    <color name="verde_victoria">#FF69F0AE</color>
+    <color name="rojo_derrota">#FFFF8A80</color>
+    <!-- Texto de comprobación (debug) -->
+    <color name="debug_texto">#FFB0BEC5</color>
+</resources>
